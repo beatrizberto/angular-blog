@@ -12,8 +12,7 @@
 }
 .big-card__photo > img {
   width:100%;
-  min-width: 500px;
-  max-height: 250px;
+  min-width: 400px;
 
 }
 .big-card__title >h1{

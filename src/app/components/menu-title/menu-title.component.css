@@ -1,15 +1,30 @@
 .container__menu-title{
   color:white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container__menu-title > h1{
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 100px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 90px;
   text-transform: uppercase;
   display: flex;
   justify-content: center;
+}
+
+.container__menu-title > ul{
+    margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.container__menu-title > ul >li {
+  color:gray;
+margin-right: 20px;
+list-style: none;
 }
 
 .container__menu-title > hr{

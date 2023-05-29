@@ -25,8 +25,8 @@ export const dataFake = [
   {
     id: '4',
     photoCover:
-      "'https://middermusic.com/wp-content/uploads/2023/03/best-female-djs.jpg'",
-    title: 'Rádio Cafuné',
+      "../../../assets/imgs/bares.jpg",
+      title: 'Rádio Cafuné',
     description: 'Criada por um grupo de amigos e DJs de Brasília (DF), a Rádio Cafuné começou com uma festa online na plataforma Zoom no primeiro ano da pandemia de COVID-19. A festa estava tão boa que nunca acabou: se estendeu pelo final de semana, depois pelo mês todo, e já está no ar há 3 anos, 24h, com música ininterrupta. Qualquer pessoa, DJ ou não, pode agendar um set e tocar para os presentes. A sala conta ainda com "salinhas" alternativas, caso alguém queira tocar outro tipo de som ou apenas conversar.',
   },
 ];

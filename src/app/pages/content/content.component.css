@@ -8,7 +8,7 @@
 
   justify-content: center;
   align-items: center;
-  margin-top: 25px;
+  margin: auto;
 }
 
 
@@ -20,7 +20,7 @@
 }
 
 .content__description{
-  margin-top: 15px;
+  margin: 20px;
 }
 .content__description > p{
   color:gray;
